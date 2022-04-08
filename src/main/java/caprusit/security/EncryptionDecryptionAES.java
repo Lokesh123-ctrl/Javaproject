@@ -8,6 +8,7 @@ import javax.crypto.NoSuchPaddingException;
 import javax.crypto.SecretKey;  
 public class EncryptionDecryptionAES {
 	
+	
     static Cipher cipher;
     static  SecretKey secretKey;
     
